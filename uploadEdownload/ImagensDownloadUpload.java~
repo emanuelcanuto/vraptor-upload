@@ -1,0 +1,7 @@
+package br.github.vraptor-upload.uploadEdownload;
+
+import br.com.caelum.vraptor.interceptor.multipart.UploadedFile;
+
+public interface ImagensDownloadUpload extends DownloadUpload {
+
+}
